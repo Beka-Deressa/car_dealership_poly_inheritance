@@ -7,6 +7,7 @@
 4. **Add methods to CarDealer:** Add the following methods to the `CarDealer` class:
     - An `addCar()` method that takes a `Car` object and adds it to the `inventory`.
     - A `sellCar()` method that takes a `Car` object and removes it from the `inventory`.
-    - A `getInventoryCount()` method that returns the current number of cars in the `inventory`.
+    -
+    - .
 
 5. **Test your classes:** Finally, write some test code to make sure your classes are working correctly. Create instances of `Sedan` and `SUV`, add them to the dealer's `inventory`, and sell them. Check that the `getInventoryCount()` method returns the correct number of cars in the `inventory` after each operation.
